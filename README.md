@@ -1,4 +1,4 @@
-### Template README.md untuk Proyek Flask RC4 Encryption/Decryption
+### Tutorial
 
 ```markdown
 # Flask RC4 Encryption/Decryption Tool
